@@ -51,9 +51,9 @@ I'm a developer focused on software engineering, cloud technologies, and network
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **📦 Project 1** | Add a short description of what this project does. | `Python` `Docker` | [View Repo](https://github.com/DantehCheung) |
-| **📱 Project 2** | Add a short description of your second application. | `Kotlin` `AWS` | [View Repo](https://github.com/DantehCheung) |
-| **🌐 Project 3** | Add a short description of your third project or lab. | `JavaScript` `Networking` | [View Repo](https://github.com/DantehCheung) |
+| **📦 Project 1** | not yet, see what can I do | `Python` `Docker` | [View Repo](https://github.com/DantehCheung) |
+| **📱 Project 2** |  final year project campus management system (backend) | `Kotlin` `AWS` | [View Repo](https://github.com/DantehCheung/cams_backend) |
+| **🌐 Project 3** | final year project campus management system (frontend) | `JavaScript` `Networking` | [View Repo](https://github.com/DantehCheung/cams-frontend) |
 
 ---
 
