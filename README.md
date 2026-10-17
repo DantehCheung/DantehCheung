@@ -10,7 +10,7 @@
   <a href="https://github.com/DantehCheung">
     <img src="https://img.shields.io/github/followers/DantehCheung?label=Follow&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="www.linkedin.com/in/danteh-cheung-4911812ab">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:YOUR-EMAIL@example.com">
@@ -62,5 +62,5 @@ I'm a developer focused on software engineering, cloud technologies, and network
 ## 📫 Connect With Me
 
 - **GitHub:** [@DantehCheung](https://github.com/DantehCheung)
-- **LinkedIn:** [Add your LinkedIn profile here](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+- **LinkedIn:** [Add your LinkedIn profile here](www.linkedin.com/in/danteh-cheung-4911812ab)
 - **Email:** [Add your email address here](mailto:YOUR-EMAIL@example.com)
