@@ -62,5 +62,5 @@ I'm a developer focused on software engineering, cloud technologies, and network
 ## 📫 Connect With Me
 
 - **GitHub:** [@DantehCheung](https://github.com/DantehCheung)
-- **LinkedIn:** [Add your LinkedIn profile here](www.linkedin.com/in/danteh-cheung-4911812ab)
-- **Email:** [Add your email address here](mailto:YOUR-EMAIL@example.com)
+- **LinkedIn:** [Click](www.linkedin.com/in/danteh-cheung-4911812ab)
+- **Email:** [Click](mailto:YOUR-EMAIL@example.com)
