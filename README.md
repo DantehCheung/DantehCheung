@@ -2,7 +2,7 @@
 
 # Hi there, I'm Danteh Cheung 👋
 
-**💻 Software Developer | ☁️ Cloud Enthusiast | 🌐 Networking**
+**💻 Software Operator | ☁️ Cloud Enthusiast | 🌐 Networking**
 
 *Building practical applications, scalable cloud infrastructure, and reliable networks.*
 
@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer focused on software engineering, cloud technologies, and network infrastructure. I enjoy turning complex problems into clean, reliable applications.
+I'm a operator focused on software engineering, cloud technologies, and network infrastructure. I enjoy turning complex problems into clean, reliable applications.
 
 - 🌱 **Currently Learning:** Advanced software development, cloud architecture, and enterprise networking
 - 💻 **Core Interests:** Full-stack development, containerization, and cloud automation
