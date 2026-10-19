@@ -53,7 +53,7 @@ I'm a operator focused on software engineering, cloud technologies, and network 
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **📦 Project 1** | not yet, see what can I do | `Python` `Docker` | [View Repo](https://github.com/DantehCheung) |
+| **📦 Project 1** | maybe linux homelab | `Python` `Docker` | [View Repo](https://github.com/DantehCheung) |
 | **📱 Project 2** |  final year project campus management system (backend) | `Kotlin` `AWS` | [View Repo](https://github.com/DantehCheung/cams_backend) |
 | **🌐 Project 3** | final year project campus management system (frontend) | `JavaScript` `Networking` | [View Repo](https://github.com/DantehCheung/cams-frontend) |
 
